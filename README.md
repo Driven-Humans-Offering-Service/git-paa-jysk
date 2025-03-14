@@ -49,19 +49,19 @@ Man skal desuden være opmærksom på, at man ved anvendelse af dansk terminolog
 
 ## Eksempler
 
-    - Gider I hale fra den gren, jeg lige har genbaseret og puffet til GitHub?
+    - Gider I høste fra den mark, jeg lige har genbaseret og puffet til GitHub?
 
-    - Jeg har lige skudt en gren og har fastlagt ændringerne fra mit gemme der.
+    - Jeg har lige skudt en mark og har sået ændringerne fra min silo der.
 
-    - Send lige en haleanmodning, når du er færdig med fletningen!
+    - Send lige en høstfest, når du er færdig med fletningen!
 
-    - Det håndplukker vi da bare fra udviklergrenen.
+    - Det håndplukker vi da bare fra udviklermarken.
     
-    - Hov, jeg tvangspuffede vistnok til hovedgrenen!
+    - Hov, jeg tvangspuffede vistnok til hovedmarken!
 
-    - Husk at kvase dine fastlæggelser, inden du fletter.
+    - Husk at kvase dine såninger, inden du fletter.
     
-    - Hvis du har gaflet min gren skal du lige huske at hente opstrøms.
+    - Hvis du har gaflet min mark skal du lige huske at hente Randers.
 
 
 # Ordliste
